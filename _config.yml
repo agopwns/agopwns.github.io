@@ -18,6 +18,8 @@ about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 저는 <mark>지속적인 배움</mark> <mark>커뮤니케이션</mark>  <mark>생각</mark> 을 가장 중요하게 생각하는 개발자 하성준입니다. 
 
+
+
   평소에 다양한 배움을 좋아하지만 업무와 프로젝트를 할 때는 필요한 만큼 공부하는 것을 좋아합니다. 
   
   다양한 직군의 동료, 유저와의 커뮤니케이션을 통해 더 나은 서비스를 만들 수 있다고 생각합니다. 
@@ -35,12 +37,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: Side Project
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
