@@ -9,16 +9,16 @@ email: agopwns@gmail.com
 website: 
 
 # Social links
-github_username:  agopwns
+github_username: agopwns
 youtube_username: agopwns
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요. 저는 <mark>지속적인 배움</mark> <mark>커뮤니케이션</mark>  <mark>생각</mark> 을 가장 중요하게 생각하는 개발자 하성준입니다. 
 
-  I am most skilled in: and <mark>커뮤니케이션</mark>  <mark>지속적인 배움</mark> <mark>생각</mark> 
+  평소에 다양한 배움을 좋아하지만 업무와 프로젝트를 할 때는 필요한 만큼 공부하는 것을 좋아합니다. 다양한 직군의 동료, 유저와의 커뮤니케이션을 통해 더 나은 서비스를 만들 수 있다고 생각합니다. 기술도 중요하지만 깊은 생각으로 유저에게 사랑받는 서비스를 만들 수 있다는 것을 경험하였습니다. 
 
 # Projects Section
 # projects_title: Projects
@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Side Project
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
