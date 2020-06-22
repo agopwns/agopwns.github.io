@@ -28,15 +28,6 @@ about_content: > # this will include new lines to allow paragraphs
   <br />
   기술도 중요하지만 깊은 생각이 있어야 유저에게 사랑받는 서비스를 만들 수 있다는 것을 경험하였습니다. <br />
 
-# Experience Section
-experience_title: Experience
-
-# Projects Section
-projects_title: Projects
-
-# Education Section
-# educaton_title: Education
-
 # More Section
 more_title: Side Project
 more_content: | # this will include new lines to allow paragraphs
@@ -45,6 +36,17 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+
+# Experience Section
+# experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
+
+# Education Section
+# educaton_title: Education
+
 
 # Footer
 footer_show_references: true
