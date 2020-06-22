@@ -1,0 +1,99 @@
+# 미국 주식 분석기
+- layout: left
+  company: <b style='font-size:22px'>미국 주식 분석기</b>
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2020-05 ~ 2020-06 &nbsp; 3week
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS EC2</Mark> <Mark>Flask</Mark> <Mark>Keras/TensorFlow</Mark> <Mark>Beatiful Soup</Mark> <Mark>Java TCP</Mark> <Mark>MYSQL DB</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Jsoup</Mark>  <Mark>Room DB</Mark> <br />
+    <br />
+    미국 3대 지표 중 하나인 S&P500에 속하는 기업을 다양한 방법으로 분석하기 위한 어플로 기업 검색, 실시간 기업 정보 조회, 경제 뉴스 감정 분석, 저평가 기업 추천, 관심 기업 북마크, 회원 채팅 기능을 개발하였습니다.
+    
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# Beatiful POS-TAGGER
+- layout: left
+  company: Beatiful POS-TAGGER
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2020-04 ~ 2020-05 &nbsp; 7week
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS EC2</Mark> <Mark>Flask</Mark> <Mark>Mecab</Mark> <Mark>soyspacing</Mark> <Mark>Hanspell</Mark> <Mark>Beatiful Soup</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <br />
+    <br />
+    오타나 띄어쓰기, 문법 오류에 강한 품사 태깅 SW입니다. 자연어 처리를 공부하며 진행하였으며 간단한 학습과 사전 추가, 자연어 처리 라이브러리를 융합하여 연구 목적으로 개발하였습니다.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# Nova Trip
+- layout: left
+  company: Nova Trip
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark> <Mark>뉴스</Mark>
+  job_title: 팀 프로젝트
+  dates: 2020-01 ~ 2020-03 &nbsp; 10week
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS EC2</Mark> <Mark>PHP</Mark> <Mark>MYSQL DB</Mark> <Mark>Android</Mark> <Mark>Google Vision API</Mark> <Mark>Sandbox Server API</Mark> <Mark>Room DB</Mark> <br />
+    <br />
+    일본 총무성이 주최한 '다국어 번역 대회' 최종 진출작으로 대회측에서 제공하는 다국어 번역 API를 활용하여 사용자의 상황을 고려하여 AI 챗봇이 맞춤형 추천과 통번역, 길찾기 기능을 제공하는 여행 어플입니다. 기본 기획 및 설계는 팀원들과 함께 진행하였으며 번역 기능 개발을 담당하였습니다.
+     
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# Peanut Community
+- layout: left
+  company: Peanut Community
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2019-12 ~ 2020-01 &nbsp; 3week
+  description: | # this will include new lines to allow paragraphs
+    <Mark>VM Ware</Mark> <Mark>Apache</Mark> <Mark>PHP</Mark> <Mark>MYSQL DB</Mark> <Mark>Ethereum</Mark> <Mark>Geth</Mark> <Mark>NodeJS</Mark> <Mark>Socket.io</Mark> <Mark>HTML/CSS/JS/JQuery</Mark>  <br />
+    <br />
+    웹 기반 커뮤니티 사이트입니다. 멤버 기능과 기본적인 게시판 기능, 실시간 알림, 랜덤 채팅, 영상 스트리밍(방), 이더리움 후원 기능을 개발하였습니다.
+          
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# Color Player
+- layout: left
+  company: Color Player
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2019-11 &nbsp; 3week
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS Serverless</Mark> <Mark>AWS Gateway</Mark> <Mark>AWS S3</Mark> <Mark>AWS RDS(Maria)</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Youtube API</Mark> <Mark>Picasso</Mark> <Mark>Room DB</Mark> <br />
+    <br />
+    서버리스 아키텍쳐를 활용한 음악 어플입니다. 스마트폰의 저장소에 있는 음악을 재생할 수 있고 유튜브 음악 또한 검색하여 재생이 가능합니다. 기본적인 음악 플레이어 기능 외에도 자신이 인상적으로 좋아하는 구간에 댓글을 남길 수 있는 타임라인 기능, 유튜브 검색 및 재생 기능 등이 있습니다.          
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# Color Timer
+- layout: left
+  company: Color Timer
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2019-11 &nbsp; 2days
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Android</Mark> <Mark>material-calendarview</Mark> <Mark>MPAndroidChart</Mark> <Mark>Room DB</Mark> <br />
+    <br />
+    구글 타이머에 영감을 받아 만들게 되었으며 일한 시간, 휴식 시간을 기록 할 수 있는 타이머입니다. 기존 타이머들은 지정한 시간이 되면 다시 start를 눌러줘야 하는 불편함이 있어서 반복 기능을 추가하였고 버튼 하나로 일, 휴식 시간을 번갈아가며 기록할 수 있습니다. 기록한 시간은 해당 날짜나 범위를 선택하여 차트로 확인할 수 있습니다.
+    
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# AR Project
+- layout: left
+  company: AR Project
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2019-11 &nbsp; 3days
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Android</Mark> <Mark>Google ARCore</Mark> <Mark>SceneForm</Mark> <Mark>Unity</Mark> <br />
+    <br />
+    ARCore를 활용하여 다양한 기능을 개발한 작품입니다. AR 이미지 추척, AR 영상, AR Model 체험, AR Portal 체험, AR 팽이 게임 등을 개발하였습니다.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# My Movie
+- layout: left
+  company: My Movie
+  link: <Mark>Github</Mark> <Mark>Youtube 영상보기</Mark>
+  job_title: 개인 프로젝트
+  dates: 2019-10 &nbsp; 1week
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Android</Mark> <Mark>Room DB</Mark> <Mark>Glide</Mark>
+    <br />
+    내가 본 영화나 드라마, 애니메이션 등을 기록할 수 있는 작품 기록 어플입니다. 왓챠 등의 어플은 해당 회사의 DB에 작품이 있어야만 등록할 수 있고 1기, 2기를 나누는 것 또한 설정하기가 힘들어 사용자가 직접 입력하여 작품을 저장할 수 있도록 개발 하였습니다.
+
