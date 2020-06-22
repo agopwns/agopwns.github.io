@@ -5,5 +5,7 @@
   dates: 2017-09 ~ 2019-09
   description: | # this will include new lines to allow paragraphs
     삼성중공업 자회사이며 삼성중공업 연구소(생산 ICT)와 협력하여 ERP 개발을 진행하였습니다. <br>
+    <br>
     기존 시스템과 DB를 분석하여 최적화 작업을 하거나 새 프로젝트의 기획, 설계도 함께 진행하였습니다. <br>
+    <br>
     서버 API 개발과 C# 클라이언트 개발을 메인으로 하였습니다.
