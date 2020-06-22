@@ -1,7 +1,7 @@
 - layout: left
   company: TeamNovaMember
   link: https://www.teamnovamember.co.kr/
-  job_title: 풀스택 개발
+  job_title: 풀스택 개발, 프리랜서
   dates: 2020-04 ~ 2020-06
   description: | # this will include new lines to allow paragraphs
     <Mark>Nginx</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     <Mark>Window Server</Mark> <Mark>C#</Mark> <Mark>Oracle DB</Mark> <Mark>Batch</Mark> <br />
     <br />
-    삼성중공업의 연구소 프로젝트로 도면을 태블릿, 스마트폰으로 보거나 실적 입력, 도면 수정 등의 작업을 전산화한 프로젝트입니다. HTTP API 개발과 배치 작성 및 쿼리 최적화 작업을 진행하였습니다.
+    삼성중공업 연구소 프로젝트로 도면을 태블릿, 스마트폰으로 보거나 실적 입력, 도면 수정 등의 작업을 전산화한 프로젝트입니다. 서버 API 개발과 배치 작성 및 쿼리 최적화 작업을 진행하였습니다.
 
 # -----------------------------------------------------------------------------------------------------------------------------
 - layout: left
@@ -48,4 +48,4 @@
   description: | # this will include new lines to allow paragraphs
     <Mark>Window Server</Mark> <Mark>C# Winform</Mark> <Mark>Oracle DB</Mark> <Mark>MYSQL DB</Mark> <Mark>Batch</Mark> <br />
     <br />
-    전계장(전선, 화기 등) 실적 조회, 입력, 수정 등의 작업을 전산화한 프로젝트입니다. 실적 조회, 입력 및 배선 설치 가능 물량 파악, 자동 배선 알고리즘 기능을 개발, 배치 최적화 작업을 진행하였습니다.
+    전계장(전선, 화기 등) 실적 조회, 입력, 수정 등의 작업을 전산화한 프로젝트입니다. 실적 조회, 입력 및 배선 설치 가능 물량 파악, 자동 배선 알고리즘 기능을 개발, Batch 최적화 작업을 진행하였습니다.
