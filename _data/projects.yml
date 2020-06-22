@@ -1,8 +1,51 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- layout: left
+  company: TeamNovaMember
+  link: https://www.teamnovamember.co.kr/
+  job_title: 풀스택 개발
+  dates: 2020-04 ~ 2020-06
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    <Mark>Nginx</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <br />
+    팀노바 멤버 사이트로 청강생, 수강생, 관리자 등이 전산화 작업(수강 신청, 멤버 관리 등)을 할 수 있는 사이트입니다.<br /> 
+    관리자 통계 시각화, 청강 알림 문자, 시간표 페이지 개발 및 쿼리 최적화 작업을 진행하였습니다.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+- layout: left
+  company: <b style='font-size:22px'>삼성중공업 모바일 무도면</b>
+  link: <Mark>삼성페어 대상</Mark> <Mark>효과 400억</Mark> <br />
+  job_title: 백엔드 서버 API 개발
+  dates: 2017-09 ~ 2019-09
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Window Server</Mark> <Mark>C#</Mark> <Mark>Oracle DB</Mark> <Mark>Batch</Mark> <br />
+    <br />
+    삼성중공업의 연구소 프로젝트로 도면을 태블릿, 스마트폰으로 보거나 실적 입력, 도면 수정 등의 작업을 전산화한 프로젝트입니다. HTTP API 개발과 배치 작성 및 쿼리 최적화 작업을 진행하였습니다.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+- layout: left
+  company: <b style='font-size:22px'>삼성중공업 LNG 화물창 <br />공정 모니터링</b>
+  job_title: 풀스택 개발
+  dates: 2019-05 ~ 2019-09
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Apache Tomcat</Mark> <Mark>Java Spring</Mark> <Mark>MSSQL DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <br />
+    LNG선 공정 현황을 시각화 차트로 실시간으로 조회 가능하며 계획 및 실적 입력, 수정 등 LNG선 공정 관리를 할 수 있는 웹 기반 프로젝트이며 풀스택으로 진행하였습니다.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+- layout: left
+  company: <b style='font-size:22px'>삼성중공업 Smart Share Comment</b>
+  job_title: 풀스택 개발
+  dates: 2019-01 ~ 2019-04
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Window Server</Mark> <Mark>C# Winform</Mark> <Mark>Oracle DB</Mark> <br />
+    <br />
+    PC에서 도면을 보거나 수정하여 코멘트를 남기거나 이슈화시켜 해당 자료를 사내 이메일, 메신저와 연동해 공유하는 프로젝트입니다. C# Winform 클라이언트 도면 관련 기능을 메인으로 개발하였습니다.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+- layout: left
+  company: <b style='font-size:22px'>삼성중공업 Smart E&I</b>
+  job_title: 풀스택 개발
+  dates: 2017-09 ~ 2018-12
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Window Server</Mark> <Mark>C# Winform</Mark> <Mark>Oracle DB</Mark> <Mark>MYSQL DB</Mark> <Mark>Batch</Mark> <br />
+    <br />
+    전계장(전선, 화기 등) 실적 조회, 입력, 수정 등의 작업을 전산화한 프로젝트입니다. 실적 조회, 입력 및 배선 설치 가능 물량 파악, 자동 배선 알고리즘 기능을 개발, 배치 최적화 작업을 진행하였습니다.
