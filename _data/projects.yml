@@ -1,5 +1,5 @@
 - layout: left
-  company: TeamNovaMember
+  company: <b style='font-size:22px'>팀노바 전산화</b>
   link: https://www.teamnovamember.co.kr/
   job_title: 풀스택 개발, 프리랜서
   dates: 2020-04 ~ 2020-06
@@ -12,8 +12,8 @@
 # -----------------------------------------------------------------------------------------------------------------------------
 - layout: left
   company: <b style='font-size:22px'>삼성중공업 모바일 무도면</b>
-  link: <Mark>삼성페어 대상</Mark> <Mark>효과 400억</Mark> <br />
-  job_title: 백엔드 서버 API 개발
+  job_title: <Mark style='font-size:80%; font-style:italic;'>삼성 페어 대상&nbsp;</Mark> <Mark style='font-size:80%; font-style:italic;'>효과 &nbsp;400억&nbsp;</Mark> <br />
+             백엔드 서버 API 개발
   dates: 2017-09 ~ 2019-09
   description: | # this will include new lines to allow paragraphs
     <Mark>Window Server</Mark> <Mark>C#</Mark> <Mark>Oracle DB</Mark> <Mark>Batch</Mark> <br />
@@ -22,11 +22,11 @@
 
 # -----------------------------------------------------------------------------------------------------------------------------
 - layout: left
-  company: <b style='font-size:22px'>삼성중공업 LNG 화물창 <br />공정 모니터링</b>
+  company: <b style='font-size:22px'>삼성중공업 LNGC 화물창 <br />공정 모니터링</b>
   job_title: 풀스택 개발
   dates: 2019-05 ~ 2019-09
   description: | # this will include new lines to allow paragraphs
-    <Mark>Apache Tomcat</Mark> <Mark>Java Spring</Mark> <Mark>MSSQL DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <Mark>Apache Tomcat</Mark> <Mark>Java Spring</Mark> <Mark>MSSQL DB</Mark> <Mark>JSP/HTML/CSS/JS/JQuery</Mark> <br />
     <br />
     LNG선 공정 현황을 시각화 차트로 실시간으로 조회 가능하며 계획 및 실적 입력, 수정 등 LNG선 공정 관리를 할 수 있는 웹 기반 프로젝트이며 풀스택으로 진행하였습니다.
 
@@ -36,7 +36,7 @@
   job_title: 풀스택 개발
   dates: 2019-01 ~ 2019-04
   description: | # this will include new lines to allow paragraphs
-    <Mark>Window Server</Mark> <Mark>C# Winform</Mark> <Mark>Oracle DB</Mark> <br />
+    <Mark>Window Server</Mark> <Mark>C#</Mark> <Mark>Winform</Mark> <Mark>Oracle DB</Mark> <br />
     <br />
     PC에서 도면을 보거나 수정하여 코멘트를 남기거나 이슈화시켜 해당 자료를 사내 이메일, 메신저와 연동해 공유하는 프로젝트입니다. C# Winform 클라이언트 도면 관련 기능을 메인으로 개발하였습니다.
 
@@ -46,6 +46,6 @@
   job_title: 풀스택 개발
   dates: 2017-09 ~ 2018-12
   description: | # this will include new lines to allow paragraphs
-    <Mark>Window Server</Mark> <Mark>C# Winform</Mark> <Mark>ComponentOne</Mark> <Mark>Oracle DB</Mark> <Mark>MYSQL DB</Mark> <Mark>Batch</Mark> <br />
+    <Mark>Window Server</Mark> <Mark>C#</Mark> <Mark>Winform</Mark> <Mark>ComponentOne</Mark> <Mark>Oracle DB</Mark> <Mark>MYSQL DB</Mark> <Mark>Batch</Mark> <br />
     <br />
     전계장(전선, 화기 등) 실적 조회, 입력, 수정 등의 작업을 전산화한 프로젝트입니다. 실적 조회, 입력 및 배선 설치 가능 물량 파악, 자동 배선 알고리즘 기능을 개발, Batch 최적화 작업을 진행하였습니다.

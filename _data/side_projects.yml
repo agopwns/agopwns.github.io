@@ -1,7 +1,7 @@
 # 미국 주식 분석기
 - layout: left
   company: <b style='font-size:22px'>미국 주식 분석기</b>
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2020-05 ~ 2020-06 &nbsp; 3week
   description: | # this will include new lines to allow paragraphs
@@ -14,7 +14,7 @@
 # Beatiful POS-TAGGER
 - layout: left
   company: Beatiful POS-TAGGER
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2020-04 ~ 2020-05 &nbsp; 7week
   description: | # this will include new lines to allow paragraphs
@@ -26,7 +26,7 @@
 # Nova Trip
 - layout: left
   company: Nova Trip
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF8224;'>뉴스</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF8224;'>뉴스&nbsp;</Mark></a> 
   job_title: 팀 프로젝트
   dates: 2020-01 ~ 2020-03 &nbsp; 10week
   description: | # this will include new lines to allow paragraphs
@@ -39,7 +39,7 @@
 # Peanut Community
 - layout: left
   company: Peanut Community
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2019-12 ~ 2020-01 &nbsp; 3week
   description: | # this will include new lines to allow paragraphs
@@ -52,9 +52,9 @@
 # Color Player
 - layout: left
   company: Color Player
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
-  dates: 2019-11 &nbsp; 3week
+  dates: 2019-11 ~ 2019-11 &nbsp; 3week
   description: | # this will include new lines to allow paragraphs
     <Mark>AWS Serverless</Mark> <Mark>AWS Gateway</Mark> <Mark>AWS S3</Mark> <Mark>AWS RDS(Maria)</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Youtube API</Mark> <Mark>Picasso</Mark> <Mark>Room DB</Mark> <br />
     <br />
@@ -64,9 +64,9 @@
 # Color Timer
 - layout: left
   company: Color Timer
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
-  dates: 2019-11 &nbsp; 2days
+  dates: 2019-11 ~ 2019-11 &nbsp; 2days
   description: | # this will include new lines to allow paragraphs
     <Mark>Android</Mark> <Mark>material-calendarview</Mark> <Mark>MPAndroidChart</Mark> <Mark>Room DB</Mark> <br />
     <br />
@@ -77,9 +77,9 @@
 # AR Project
 - layout: left
   company: AR Project
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
-  dates: 2019-11 &nbsp; 3days
+  dates: 2019-11 ~ 2019-11 &nbsp; 3days
   description: | # this will include new lines to allow paragraphs
     <Mark>Android</Mark> <Mark>Google ARCore</Mark> <Mark>SceneForm</Mark> <Mark>Unity</Mark> <br />
     <br />
@@ -89,9 +89,9 @@
 # My Movie
 - layout: left
   company: My Movie
-  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기</Mark></a> 
+  link: <a href='#' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
-  dates: 2019-10 &nbsp; 1week
+  dates: 2019-10 ~ 2019-10 &nbsp; 1week
   description: | # this will include new lines to allow paragraphs
     <Mark>Android</Mark> <Mark>Room DB</Mark> <Mark>Glide</Mark>
     <br />
