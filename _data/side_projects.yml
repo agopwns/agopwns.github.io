@@ -26,7 +26,7 @@
 # Nova Trip
 - layout: left
   company: Nova Trip
-  link: <a href='https://github.com/agopwns/mimi.tagengo.examples/tree/master/src/Android' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> <a href='https://tagen.go.jp/report/report2019-poc.html' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF8224;'>대회 사이트&nbsp;</Mark></a> 
+  link: <a href='https://github.com/agopwns/mimi.tagengo.examples/tree/master/src/Android' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://www.youtube.com/watch?v=pjqU5UYs7FQ&t=65s' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> <a href='https://tagen.go.jp/report/report2019-poc.html' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF8224;'>대회 사이트&nbsp;</Mark></a> 
   job_title: 팀 프로젝트
   dates: 2020-01 ~ 2020-03 &nbsp; 10week
   description: | # this will include new lines to allow paragraphs
@@ -39,7 +39,7 @@
 # Peanut Community
 - layout: left
   company: Peanut Community
-  link: <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
+  link: <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://youtu.be/XmwVZDh1gg4' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2019-12 ~ 2020-01 &nbsp; 3week
   description: | # this will include new lines to allow paragraphs
@@ -52,11 +52,11 @@
 # Color Player
 - layout: left
   company: Color Player
-  link: <a href='https://github.com/agopwns/ColorPlayer' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
+  link: <a href='https://github.com/agopwns/ColorPlayer' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://youtu.be/xRRacTuoMQE' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
-  dates: 2019-11 ~ 2019-11 &nbsp; 3week
+  dates: 2019-11 ~ 2019-12 &nbsp; 3week
   description: | # this will include new lines to allow paragraphs
-    <Mark>AWS Serverless</Mark> <Mark>AWS Gateway</Mark> <Mark>AWS S3</Mark> <Mark>AWS RDS(Maria)</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Youtube API</Mark> <Mark>Picasso</Mark> <Mark>Room DB</Mark> <br />
+    <Mark>AWS Lambda</Mark> <Mark>AWS Gateway</Mark> <Mark>AWS S3</Mark> <Mark>AWS RDS(Maria)</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Youtube API</Mark> <Mark>Picasso</Mark> <Mark>Room DB</Mark> <br />
     <br />
     서버리스 아키텍쳐를 활용한 음악 어플입니다. 스마트폰의 저장소에 있는 음악을 재생할 수 있고 유튜브 음악 또한 검색하여 재생이 가능합니다. 기본적인 음악 플레이어 기능 외에도 자신이 인상적으로 좋아하는 구간에 댓글을 남길 수 있는 타임라인 기능, 유튜브 검색 및 재생 기능 등이 있습니다.          
 
@@ -64,7 +64,7 @@
 # Color Timer
 - layout: left
   company: Color Timer
-  link: <a href='https://github.com/agopwns/ColorTimer' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
+  link: <a href='https://github.com/agopwns/ColorTimer' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://youtu.be/V_zyc7YkljA' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2019-11 ~ 2019-11 &nbsp; 2days
   description: | # this will include new lines to allow paragraphs
