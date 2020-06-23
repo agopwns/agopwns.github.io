@@ -4,7 +4,7 @@
   job_title: 풀스택 개발, 프리랜서
   dates: 2020-04 ~ 2020-06
   description: | # this will include new lines to allow paragraphs
-    <Mark>Nginx</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <Mark>Nginx</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <Mark>ChartJS</Mark> <br />
     <br />
     팀노바 멤버 사이트로 청강생, 수강생, 관리자 등이 전산화 작업(수강 신청, 멤버 관리 등)을 할 수 있는 사이트입니다.<br /> 
     관리자 통계 시각화, 청강 알림 문자, 시간표 페이지 개발 및 쿼리 최적화 작업을 진행하였습니다.
