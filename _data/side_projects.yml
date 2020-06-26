@@ -1,20 +1,20 @@
 # 미국 주식 분석기
 - layout: left
   company: <b style='font-size:22px'>미국 주식 분석기</b>
-  link: <a href='https://github.com/agopwns/mibungi' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
+  link: <a href='https://github.com/agopwns/mibungi' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://youtu.be/tdkxsL9-JHg' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2020-05 ~ 2020-06 &nbsp; 3week
   description: | # this will include new lines to allow paragraphs
-    <Mark>AWS EC2</Mark> <Mark>Flask</Mark> <Mark>Keras/TensorFlow</Mark> <Mark>Beatiful Soup</Mark> <Mark>Java TCP</Mark> <Mark>MYSQL DB</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Jsoup</Mark>  <Mark>Room DB</Mark> <br />
+    <Mark>AWS EC2</Mark> <Mark>Flask</Mark> <Mark>Keras/TensorFlow</Mark> <Mark>Beatiful Soup</Mark> <Mark>MYSQL DB</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Jsoup</Mark>  <Mark>Room DB</Mark> <br />
     <br />
-    미국 3대 지표 중 하나인 S&P500에 속하는 기업을 다양한 방법으로 분석하기 위한 어플로 기업 검색, 실시간 기업 정보 조회, 경제 뉴스 감정 분석, 저평가 기업 추천, 관심 기업 북마크, 회원 채팅 기능을 개발하였습니다.
+    미국 3대 지표 중 하나인 S&P500에 속하는 기업을 다양한 방법으로 분석하기 위한 어플로 기업 검색, 실시간 기업 정보 조회, 경제 뉴스 감정 분석, 저평가 기업 추천, 관심 기업 북마크 기능을 개발하였습니다.
     
 
 # -----------------------------------------------------------------------------------------------------------------------------
 # Beatiful POS-TAGGER
 - layout: left
   company: Beatiful POS-TAGGER
-  link: <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
+  link: <a href='https://github.com/agopwns/Beatiful-POS-TAGGER' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://youtu.be/ybyop5Vn12c' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2020-04 ~ 2020-05 &nbsp; 7week
   description: | # this will include new lines to allow paragraphs
@@ -58,7 +58,7 @@
   description: | # this will include new lines to allow paragraphs
     <Mark>AWS Lambda</Mark> <Mark>AWS Gateway</Mark> <Mark>AWS S3</Mark> <Mark>AWS RDS(Maria)</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <Mark>Youtube API</Mark> <Mark>Picasso</Mark> <Mark>Room DB</Mark> <br />
     <br />
-    서버리스 아키텍쳐를 활용한 음악 어플입니다. 스마트폰의 저장소에 있는 음악을 재생할 수 있고 유튜브 음악 또한 검색하여 재생이 가능합니다. 기본적인 음악 플레이어 기능 외에도 자신이 인상적으로 좋아하는 구간에 댓글을 남길 수 있는 타임라인 기능, 유튜브 검색 및 재생 기능 등이 있습니다.          
+    서버리스 아키텍쳐를 활용한 음악 어플입니다. 스마트폰의 저장소에 있는 음악을 재생할 수 있고 유튜브 음악 또한 검색하여 재생이 가능합니다. 기본적인 음악 플레이어 기능 외에도 자신이 인상적으로 좋아하는 구간에 댓글을 남길 수 있는 타임라인 기능, 커스텀 재생 목록, 재생수, 좋아요 기반 추천 기능이 있습니다.
 
 # -----------------------------------------------------------------------------------------------------------------------------
 # Color Timer
@@ -77,7 +77,7 @@
 # AR Project
 - layout: left
   company: AR Project
-  link: <a href='#' target='_blank' style='font-size:14px; text-decoration:none;'><Mark>Github</Mark></a> <a href='https://youtu.be/C8iP5SIJdpQ' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
+  link:  <a href='https://youtu.be/C8iP5SIJdpQ' target='_blank' style='font-size:14px; text-decoration:none;'><Mark style='background-color:#FF5A5A;'>작품 영상 보기&nbsp;</Mark></a> 
   job_title: 개인 프로젝트
   dates: 2019-11 ~ 2019-11 &nbsp; 3days
   description: | # this will include new lines to allow paragraphs
