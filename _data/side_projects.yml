@@ -18,7 +18,7 @@
   job_title: 개인 프로젝트
   dates: 2020-04 ~ 2020-05 &nbsp; 7week
   description: | # this will include new lines to allow paragraphs
-    <Mark>AWS EC2</Mark> <Mark>Flask</Mark> <Mark>Mecab</Mark> <Mark>soyspacing</Mark> <Mark>Hanspell</Mark> <Mark>Beatiful Soup</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <Mark>Android</Mark> <Mark>Retrofit2</Mark> <br />
+    <Mark>AWS EC2</Mark> <Mark>Flask</Mark> <Mark>Mecab</Mark> <Mark>soyspacing</Mark> <Mark>Hanspell</Mark> <Mark>Beatiful Soup</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
     <br />
     오타나 띄어쓰기, 문법 오류에 강한 품사 태깅 SW입니다. 자연어 처리를 공부하며 진행하였으며 간단한 학습과 사전 추가, 자연어 처리 라이브러리를 융합하여 연구 목적으로 개발하였습니다.
 
