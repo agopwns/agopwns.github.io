@@ -5,8 +5,9 @@ favicon: images/favicon.ico
 # Personal info
 name: 하성준
 title: SW ENGINEER
+       
 email: agopwns@gmail.com
-website: 
+website: <text style='text-decoration:none; pointer-events: none;' >Seoul Dongjak-gu</text>
 
 # Dark Mode
 darkmode: never
