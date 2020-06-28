@@ -1,7 +1,7 @@
 # agopwns.github.io
 새로 업데이트한 이력서입니다. 관심 있는 분들은 [메일](agopwns@gmail.com) 주세요 :)  
   
-Ruby, Jeklly을 사용한 정적 템플릿으로 만들었으며
+Ruby, jekyll을 사용해 정적 템플릿으로 만들었으며
 [sproogen](https://github.com/sproogen)님의 [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) 프로젝트를 참고하였습니다.
 
 ## 라이센스
