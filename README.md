@@ -1,8 +1,12 @@
 # agopwns.github.io
-새로 업데이트한 이력서입니다. 관심 있는 분들은 [메일](agopwns@gmail.com) 주세요 :)  
+새로 업데이트한 이력서([멋진 이력서 보러 가기!](https://agopwns.github.io/))입니다. 관심 있으신 분들은 [메일](agopwns@gmail.com) 주세요 :)  
   
 Ruby, jekyll을 사용해 정적 템플릿으로 만들었으며
 [sproogen](https://github.com/sproogen)님의 [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) 프로젝트를 참고하였습니다.
+  
+사용법은 sproogen님의 프로젝트에 상세히 있어서 해당 프로젝트를 참고하시면 됩니다.
+
+만약 제가 수정한 템플릿에 대해 궁금한 점이 있으시다면 이슈로 남겨주세요.
 
 ## 라이센스
 MIT License  
