@@ -4,7 +4,7 @@
 Ruby, jekyll을 사용해 정적 템플릿으로 만들었으며
 [sproogen](https://github.com/sproogen)님의 [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) 프로젝트를 참고하였습니다.
   
-사용법은 sproogen님의 프로젝트에 상세히 있어서 해당 프로젝트를 참고하시면 됩니다.
+사용법은 [여기](https://github.com/sproogen/modern-resume-theme)의 Usage 항목을 참고하시면 됩니다.
 
 만약 제가 수정한 템플릿에 대해 궁금한 점이 있으시다면 이슈로 남겨주세요.
 
