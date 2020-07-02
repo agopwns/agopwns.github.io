@@ -1,4 +1,12 @@
 - layout: left
+  company: ASEADO
+  link: https://aseado.co.kr/
+  job_title: SW ENGINEER, TeamLeader
+  dates: 2020.07 ~ now
+  description: | # this will include new lines to allow paragraphs
+    개발 팀장 포지션이며 미마 마스크 쇼핑몰을 필두로 다양한 프로젝트를 진행하게 될 듯 합니다. <br>
+
+- layout: left
   company: SOTEC
   link: http://www.ssotec.com/html/
   job_title: SW ENGINEER
