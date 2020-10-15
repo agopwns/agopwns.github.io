@@ -1,4 +1,40 @@
 - layout: left
+  company: <b style='font-size:22px'>미마마스크 쇼핑몰 정기배송 쿠폰 기능</b>
+  link: https://miima.co.kr/
+  job_title: 풀스택 개발
+  dates: 2020-09 ~ 2020-10 
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS EC2</Mark> <Mark>AWS ELB</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <br />
+    미마마스크 쇼핑몰의 쿠폰 발급을 위한 휴대폰 인증, 정기배송 쿠폰 발급, 쿠폰 적용 등의 기획, 설계, 기능 개발을 담당 하였습니다.<br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
+  company: <b style='font-size:22px'>미마마스크 쇼핑몰 관리자 기능</b>
+  link: https://miima.co.kr/
+  job_title: 풀스택 개발
+  dates: 2020-08 ~ 2020-09 
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS EC2</Mark> <Mark>AWS ELB</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <br />
+    미마마스크 관리자가 사용하는 재고 관리, 교환/반품 관리, 홈쇼핑 배송 API 연동 등 기획, 설계, 기능 개발을 담당 하였습니다.<br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
+  company: <b style='font-size:22px'>미마마스크 쇼핑몰 정기배송</b>
+  link: https://miima.co.kr/
+  job_title: 풀스택 개발
+  dates: 2020-07 ~ 2020-08
+  description: | # this will include new lines to allow paragraphs
+    <Mark>AWS EC2</Mark> <Mark>AWS ELB</Mark> <Mark>PHP</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <br />
+    미마마스크 쇼핑몰의 정기배송 신청, 결제, 배송 연동, 관리 등 전반적인 정기배송 기획, 설계, 기능 개발을 담당 하였습니다.<br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
   company: <b style='font-size:22px'>팀노바 전산화</b>
   link: https://www.teamnovamember.co.kr/
   job_title: 풀스택 개발, 프리랜서
