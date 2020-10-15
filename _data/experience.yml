@@ -4,8 +4,9 @@
   job_title: SW ENGINEER, Technical TeamLead
   dates: 2020-07 ~ 2020-10
   description: | # this will include new lines to allow paragraphs
-    아세아도의 주력 제품인 미마마스크(한국 약사회 선호도 1위 마스크) 쇼핑몰 https://miima.co.kr/ 의 <br>
-    풀스택 유지보수, 정기배송, 관리자 사이트 기능을 기획, 설계, 개발을 담당하였습니다.
+    아세아도의 주력 제품중 하나인 미마마스크는 <Mark>한국 약사회 선호도 1위</Mark> 마스크이며 2020년 <Mark>매출 약 400억</Mark> 규모의 프로젝트입니다. <br>
+    <br>
+    미마마스크 [쇼핑몰](https://miima.co.kr/) 풀스택 유지보수, <Mark>정기배송</Mark>, <Mark>관리자 사이트</Mark>의 기획, 설계, 개발을 담당하였습니다.
 
 - layout: left
   company: 프리랜서
