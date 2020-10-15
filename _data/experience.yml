@@ -1,11 +1,24 @@
 - layout: left
   company: ASEADO
   link: https://aseado.co.kr/
-  job_title: SW ENGINEER, TeamLeader
-  dates: 2020.07 ~ now
+  job_title: SW ENGINEER, Technical TeamLead
+  dates: 2020-07 ~ 2020-10
   description: | # this will include new lines to allow paragraphs
     아세아도의 주력 제품인 미마마스크(한국 약사회 선호도 1위 마스크) 쇼핑몰 https://miima.co.kr/ 의 <br>
-    풀스택 유지보수 및 사이트 리뉴얼, 스마트팩토리 프로젝트를 담당하고 있습니다.
+    풀스택 유지보수, 정기배송, 관리자 사이트 기능을 기획, 설계, 개발을 담당하였습니다.
+
+- layout: left
+  company: 프리랜서
+  job_title: SW ENGINEER
+  dates: 2019-09 ~ 2020-06
+  description: | # this will include new lines to allow paragraphs
+    삼성중공업 자회사이며 삼성중공업 연구소(생산 ICT)와 협력하여 스마트팩토리, ERP 개발을 진행하였습니다. <br>
+    <br>
+    기존 시스템과 DB를 분석하여 Batch 최적화 작업을 하거나 새 프로젝트의 기획, 설계도 함께 진행하였습니다. <br>
+    <br>
+    <Mark>서버 API</Mark> <Mark>C# 클라이언트</Mark> 를 중점적으로 개발 하였습니다. <br>
+    <br>
+    <Mark>하루 50억원 매출</Mark> 이 발생하는 스마트팩토리 백엔드 서비스 운영 경험이 있습니다.
 
 - layout: left
   company: SOTEC
