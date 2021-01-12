@@ -1,4 +1,10 @@
 - layout: left
+  company: <b style='font-size:22px'>팀노바</b>
+  dates: 2019-09 ~ 2020-06
+  description: | # this will include new lines to allow paragraphs
+    더 좋은 개발자가 되기 위해 팀노바에서 공부를 하였습니다. 기술에 대한 접근 방법, 학습에 대한 철학을 배웠고 Android, PHP, AWS, Linux Server, 인공지능 등 다양한 분야를 학습하며 사이드 프로젝트를 진행하였습니다.
+
+- layout: left
   company: <b style='font-size:22px'>부산 아이티윌</b> 
   dates: 2017-03 ~ 2017-08
   description: | # this will include new lines to allow paragraphs
