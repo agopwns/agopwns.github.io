@@ -1,41 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
+  <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
 
+    <main class="page-content" aria-label="Content">
 
-<body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+      <div class="wrapper">
 
-
-
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-
-
-
-      {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
-      {%- endif -%}
-
-      {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.side_projects.size > 0 -%}
         {%- include side_projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
-      {%- endif -%}
 
-    </div>
-  </main>
+      </div>
 
+    </main>
 
+      <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 
-  {% if site.darkmode == false %}
-    <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
-  {% endif %}
-</body>
+  </body>
 
 </html>
