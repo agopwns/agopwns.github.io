@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-  <body>
+  {%- include head.html -%}
+  <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+    {%- include header.html -%}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {%- include experience.html -%}
@@ -9,6 +11,7 @@
         {%- include education.html -%}
       </div>
     </main>
+    {%- include footer.html -%}
     <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
   </body>
 </html>
