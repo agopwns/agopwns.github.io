@@ -1,4 +1,13 @@
 - layout: left
+  company: 프리랜서
+  job_title: SW ENGINEER
+  dates: 2020-12 ~ 2021-04
+  description: | # this will include new lines to allow paragraphs
+    프리랜서 기간 동안 다양한 기업과 협업을 진행하였습니다. <br>
+    <br>
+    자세한 사항은 아래 프로젝트 항목에서 보실 수 있습니다.
+
+- layout: left
   company: ASEADO
   link: https://aseado.co.kr/
   job_title: SW ENGINEER <br> Technical TeamLead

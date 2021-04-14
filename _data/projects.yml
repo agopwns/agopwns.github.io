@@ -1,4 +1,28 @@
 - layout: left
+  company: <b style='font-size:22px'>북미 카와이 쇼핑몰 mochipan UI/UX 커스텀</b>
+  link: https://mochipan.com/
+  job_title: 프론트 개발 및 어드바이저
+  dates: 2020-12 ~ 2020-04 
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Liquid(Ruby base)</Mark> <br />
+    <br />
+    mochipan은 북미 의류 shopify 쇼핑몰이며 해당 쇼핑몰을 Liquid를 활용하여 쇼핑몰 UI/UX 커스텀 개발을 진행하였습니다.<br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
+  company: <b style='font-size:22px'>육아 케어 서비스 으앙 풀스택 개발</b>
+  link: https://lifecare.team/kor/main/index.html
+  job_title: 풀스택 개발
+  dates: 2020-12 ~ 2020-04 
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Cloud Server</Mark> <Mark>PHP</Mark> <Mark>Android</Mark> <Mark>iOS</Mark> <Mark>Maria DB</Mark> <Mark>HTML/CSS/JS/JQuery</Mark> <br />
+    <br />
+    라이프케어의 간호사 육아 케어 서비스인 으앙의 전반적인 풀스택 개발을 진행하였습니다.<br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
   company: <b style='font-size:22px'>미마마스크 쇼핑몰 <br> 정기배송, 쿠폰 기능</b>
   link: https://miima.co.kr/
   job_title: 풀스택 개발
