@@ -13,7 +13,7 @@ darkmode: never
 
 # Social links
 github_username: agopwns
-youtube_username: url_decode(channel//UC9gV3AO0ulWIbKqg9FYDSnA)
+youtube_username: channel%2FUC9gV3AO0ulWIbKqg9FYDSnA
 
 # About Section
 # about_title: About Me
