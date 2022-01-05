@@ -1,6 +1,6 @@
 - layout: left
   company: <b style='font-size:22px'>육아 케어 서비스 으앙</b>
-  link: https://lifecare.team/kor/main/index.html
+  link: https://euang.imweb.me/
   job_title: 풀스택 개발
   dates: 2020-12 ~ 진행중
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +12,7 @@
 
 - layout: left
   company: <b style='font-size:22px'>커피하우스 풀스택 개발</b>
-  link: https://lifecare.team/kor/main/index.html
+  link: https://play.google.com/store/apps/details?id=com.socialinvestinglab.coffeehouse
   job_title: 풀스택 개발
   dates: 2021-04 ~ 2021-10
   description: | # this will include new lines to allow paragraphs
