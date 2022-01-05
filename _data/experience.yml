@@ -1,20 +1,31 @@
 - layout: left
-  company: 소셜인베스팅랩
-  job_title: Lead SW ENGINEER
-  dates: 2021-04 ~ 진행중
+  company: 라이프케어
+  job_title: 개발팀장
+  dates: 2020-12 ~ 진행중
   description: | # this will include new lines to allow paragraphs
-    수석 SW 엔지니어로 핀테크 SNS 주식 트레이딩 앱인 '커피하우스' 를 만들고 있습니다. <br>
+    육아 케어 서비스 '으앙'을 만들고 있습니다. <br>
     <br>
-    서비스 기획에도 적극적으로 참여하며 설계 및 메인 개발(Web, Mobile App, 서버)을 담당하고 있습니다.
+    전체 프로젝트 리드 및 풀스택 개발 및 운영을 담당하고 있습니다.
 
 - layout: left
   company: 프리랜서
   job_title: SW ENGINEER
-  dates: 2020-12 ~ 진행중
+  dates: 2019-09 ~ 진행중
   description: | # this will include new lines to allow paragraphs
     프리랜서 기간 동안 다양한 기업과 협업을 진행하였습니다. <br>
     <br>
     자세한 사항은 아래 프로젝트 항목에서 보실 수 있습니다.
+
+- layout: left
+  company: 소셜인베스팅랩
+  link: https://socialinvestinglab.com/ <br>
+  https://play.google.com/store/apps/details?id=com.socialinvestinglab.coffeehouse
+  job_title: Lead SW ENGINEER
+  dates: 2021-04 ~ 2021-10
+  description: | # this will include new lines to allow paragraphs
+    수석 SW 엔지니어로 핀테크 SNS 주식 트레이딩 앱인 '커피하우스' 를 만들었으며 <Mark>시리즈 A 라운드</Mark>까지 진행하였습니다. <br>
+    <br>
+    서비스 기획에도 적극적으로 참여하며 설계 및 메인 개발(Web, Mobile App, 서버)을 담당하였고 신한 증권, 한국투자증권과 협업 경험이 있습니다.
 
 - layout: left
   company: ASEADO
@@ -25,15 +36,6 @@
     아세아도의 주력 제품중 하나인 미마마스크는 <Mark>한국 약사회 선호도 1위 마스크</Mark> 이며 <Mark>매출 400억</Mark> 규모의 프로젝트입니다. <br>
     <br>
     개발팀장으로 미마마스크 쇼핑몰의 <Mark>풀스택 유지보수</Mark> <Mark>정기배송</Mark> <Mark>관리자 사이트</Mark> 의 기획, 설계, 개발을 담당하였습니다.
-
-- layout: left
-  company: 프리랜서
-  job_title: SW ENGINEER
-  dates: 2019-09 ~ 2020-06
-  description: | # this will include new lines to allow paragraphs
-    프리랜서 기간 동안 사이드 프로젝트 개발 및 연구를 진행하였습니다. <br>
-    <br>
-    자세한 사항은 아래 사이드 프로젝트 항목에서 보실 수 있습니다.
 
 - layout: left
   company: SOTEC
