@@ -1,14 +1,4 @@
 - layout: left
-  company: 라이프케어
-  link: https://www.thewonder.re.kr/
-  job_title: 개발팀장
-  dates: 2020-12 ~ 진행중
-  description: | # this will include new lines to allow paragraphs
-    육아 케어 서비스 '으앙'을 만들고 있습니다. <br>
-    <br>
-    전체 프로젝트 리드, 풀스택 개발 및 운영을 담당하고 있습니다.
-
-- layout: left
   company: 프리랜서
   job_title: SW ENGINEER
   dates: 2019-09 ~ 진행중
@@ -16,6 +6,16 @@
     프리랜서 기간 동안 다양한 기업과 협업을 진행하였습니다. <br>
     <br>
     자세한 사항은 아래 프로젝트 항목에서 보실 수 있습니다.
+
+- layout: left
+  company: 라이프케어
+  link: https://www.thewonder.re.kr/
+  job_title: 개발팀장
+  dates: 2020-12 ~ 2023-07
+  description: | # this will include new lines to allow paragraphs
+    육아 케어 서비스 '으앙'을 만들고 있습니다. <br>
+    <br>
+    전체 프로젝트 리드, 풀스택 개발 및 운영을 담당하고 있습니다.
 
 - layout: left
   company: 소셜인베스팅랩
