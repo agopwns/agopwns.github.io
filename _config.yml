@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: 하성준
-title: SW ENGINEER<br /><mark>구인중</mark><br />Last update 2023-12-28
+title: SW ENGINEER<br />
        
 email: agopwns@gmail.com
 
@@ -26,8 +26,10 @@ about_content:
   <br />
   기술도 중요하지만 유저와 회사가 원하는 것이 무엇인지 항상 고민하여 서비스에 적용하는 사람이 되고자 노력합니다. <br />
   <br />
-  현재 📍 터키 이스탄불에 거주중이므로 <mark>원격 근무(한국 시간 오후 1시 ~ 10시)</mark> 가능합니다.  <br />
-  <br />
+  현재 위치 📍 터키 이스탄불<br />
+  근무 형태 🧑🏻‍💻 <mark>원격 근무(한국 시간 오후 1시 ~ 10시)</mark> 가능합니다.<br />
+  주력 기술 🕹️ <mark>AWS</mark> <mark>Django</mark> <mark>PHP</mark> <mark>Flutter</mark> <mark>Native Mobile</mark> <mark>HTML/CSS/JS</mark> <br />
+  채용 상태 🏷️ <mark>구인중</mark><br /><mark>Last update 2023-12-28</mark> <br />
 
 # Experience Section
 # experience_title: Experience
