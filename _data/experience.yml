@@ -1,4 +1,14 @@
 - layout: left
+  company: One Billion Studio
+  job_title: SW ENGINEER, CEO
+  dates: 2024-01 ~
+  description: | # this will include new lines to allow paragraphs
+    시니어 개발자 구독 서비스 One Billion Studio를 런칭하였습니다. <br>
+    <br>
+    언제든 일시 중지 가능하며 합리적인 가격에 개발을 제공해 스타트업을 돕기 위한 구독 서비스를 제공하고 있으며 글로벌 스타일의 디자인과 개발을 지향하는 스튜디오입니다.<br>
+    <br>
+
+- layout: left
   company: 프리랜서
   job_title: SW ENGINEER
   dates: 2019-09 ~ 진행중
@@ -22,9 +32,9 @@
   job_title: Lead SW ENGINEER
   dates: 2021-04 ~ 2021-10
   description: | # this will include new lines to allow paragraphs
-    수석 SW 엔지니어로 핀테크 SNS 주식 트레이딩 앱인 '커피하우스' 를 만들었으며 <Mark>시리즈 A 라운드</Mark>까지 진행하였습니다. <br>
+    수석 SW 엔지니어로 핀테크 SNS 주식 트레이딩 앱인 '커피하우스' 를 만들었으며 <Mark>다운로드 10만</Mark> <Mark>시리즈 A 라운드</Mark>까지 진행하였습니다. <br>
     <br>
-    서비스 기획에도 적극적으로 참여하며 설계 및 메인 개발(Web, Mobile App, 서버)을 담당하였고 신한 증권, 한국투자증권과 협업 경험이 있습니다.
+    서비스 기획에도 적극적으로 참여하며 기획, 설계 및 메인 개발(Web App, Mobile App, 서버)을 담당하였고 신한 증권, 한국투자증권과 협업 경험이 있습니다.
 
 - layout: left
   company: ASEADO
@@ -44,7 +54,7 @@
   description: | # this will include new lines to allow paragraphs
     삼성중공업 자회사이며 삼성중공업 연구소(생산 ICT)와 협력하여 스마트팩토리, ERP 개발을 진행하였습니다. <br>
     <br>
-    기존 시스템과 DB를 분석하여 Batch 최적화 작업을 하거나 새 프로젝트의 기획, 설계도 함께 진행하였습니다. <br>
+    기존 시스템과 DB를 분석하여 대용량 데이터 핸들링, Batch 최적화, 대용량 쿼리 튜닝 작업을 하거나 새 프로젝트의 기획, 설계도 함께 진행하였습니다. <br>
     <br>
     <Mark>서버 API</Mark> <Mark>C# 클라이언트</Mark> 를 중점적으로 개발 하였습니다. <br>
     <br>
