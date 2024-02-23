@@ -1,10 +1,10 @@
 - layout: left
-  company: <b style='font-size:22px'>터키 한국어 교육앱 Koredu</b>
-  link: https://play.google.com/store/apps/details?id=com.agopwns.koredu
+  company: <b style='font-size:22px'>시니어 개발자 구독 One Billion Studio</b>
+  link: https://www.onebillionstudio.site
   job_title: 풀스택 개발
-  dates: 2023-08 ~ 2023-10
+  dates: 2024-01 ~ 2023-02
   description: | # this will include new lines to allow paragraphs
-    <Mark>AWS</Mark> <Mark>Python Django</Mark> <Mark>Postgresql</Mark> <Mark>Flutter</Mark> <br />
+    <Mark>Nextjs</Mark> <Mark>React</Mark> <Mark>Tailwindcss</Mark> <Mark>Vercel</Mark> <Mark>Supabase</Mark> <Mark>Flutter</Mark> <br />
     <br />
     KPOP을 들으며 한국어를 공부할 수 있는 앱입니다. 유튜브 플레이어, 단어장, 수업 기능을 기획, UI/UX 디자인, 프론트(Flutter), 백엔드(Django) 개발 전부 1인으로 진행하였습니다.<br />
     
