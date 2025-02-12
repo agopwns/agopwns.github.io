@@ -1,5 +1,48 @@
 
 - layout: left
+  company: <b style='font-size:22px'>Hermont Fleet</b>
+  link: https://www.hermontfleet.com/
+  job_title: 풀스택 개발
+  dates: 2024
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Nextjs</Mark> <Mark>Tailwindcss</Mark> <Mark>Vercel</Mark> <Mark>Supabase</Mark> <br />
+    <br />
+    캐나다의 Hermont사와 Amazon과 협업하여 만든 Fleet Management System입니다. <br />
+    <br />
+    Amazon과 모든 차량의 Maintenance, Repair, Operation 등을 관리하는 시스템입니다. <br />
+    <br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
+  company: <b style='font-size:22px'>PNUTBUTTER</b>
+  link: https://www.pnutbtr.com/
+  job_title: 풀스택 개발
+  dates: 2024
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Nextjs</Mark> <Mark>Tailwindcss</Mark> <Mark>Vercel</Mark> <Mark>Supabase</Mark> <br />
+    <br />
+    PNUTBTR은 피트니스와 크로스핏 등 헬스케어 매거진과 동시에 각종 교육 컨텐츠와 상품을 제공하는 헬스케어 웹 플랫폼 프로젝트입니다. <br />
+    <br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
+  company: <b style='font-size:22px'>URBAN WAVE THROWDOWN</b>
+  link: https://www.urbanwavethrowdown.com/urbanwave
+  job_title: 풀스택 개발
+  dates: 2024
+  description: | # this will include new lines to allow paragraphs
+    <Mark>Nextjs</Mark> <Mark>Tailwindcss</Mark> <Mark>Vercel</Mark> <Mark>Supabase</Mark> <br />
+    <br />
+    URBAN WAVE THROWDOWN는 인천시와 다양한 크로스핏 관련 업체들이 함께 주최한 대형 프로젝트이며 크로스핏을 즐기는 사람들을 위한 다양한 이벤트를 제공합니다. <br />
+    <br />
+    약 3천명의 회원들이 참여하였고 웹사이트는 오프라인 대회 기간 동안 백만 트래픽을 달성하였습니다. 국내에서 <br />
+    <br />
+    
+# -----------------------------------------------------------------------------------------------------------------------------
+
+- layout: left
   company: <b style='font-size:22px'>시니어 개발자 구독 서비스 One Billion Studio</b>
   link: https://www.onebillionstudio.site/
   job_title: 풀스택 개발
